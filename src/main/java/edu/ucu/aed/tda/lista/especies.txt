@@ -1,0 +1,5 @@
+520;Trilobite;herbívoro
+375;Tiktaalik;carnívoro
+150;Archaeopteryx;carnívoro
+0;HomoSapiens;omnívoro
+4;Austrolopithecus;omnívoro
